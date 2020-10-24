@@ -11,12 +11,12 @@ subtraction(10, 5)
 def division(num1, num2)
 return num1 / num2
 end
-division("4", "5")
+division(4, 5)
 
 def multiplication(num1, num2)
 return num1 * num2
 end
-multiplication("4", "5")
+multiplication(4, 5)
 
 def modulo(num1, num2)
 
