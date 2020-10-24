@@ -1,7 +1,7 @@
 def addition(num1, num2)
 return num1 + num2 
 end
-addition("4", "5")
+addition(4, 5)
 
 def subtraction(num1, num2)
 return num1 - num2
