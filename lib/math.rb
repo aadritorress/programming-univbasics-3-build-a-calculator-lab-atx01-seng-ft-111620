@@ -4,7 +4,7 @@ end
 addition("4", "5")
 
 def subtraction(num1, num2)
-return num1 - num2
+return num1 -@ num2
 end
 subtraction("10", "5")
 
