@@ -19,8 +19,7 @@ end
 multiplication(4, 5)
 
 def modulo(num1, num2)
-return num1 / num2
-
+return num1 % num2
 end
 modulo(34, 5)
 
